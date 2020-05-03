@@ -1,2 +1,2 @@
 # DRFPractiseSite
-Just practising some DRF while learning new things
+Just building a toy DRF site to practise on
